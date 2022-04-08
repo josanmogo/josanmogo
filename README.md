@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @josanmogo
-- 👀 I’m interested in Epidemiology, public health, infectious disease modeling.
+- 👀 I’m interested in Epidemiology, Public Health, infectious disease modeling.
 - 🌱 I’m currently learning Arabic مرحبا
 - 💞️ I’m looking to collaborate on applied epi R coding and teaching
 - 📫 How to reach me @josan_montes on Twitter
