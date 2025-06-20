@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josanmogo
+- 👋 Hi, I’m José Montes
 - 👀 I’m interested in Epidemiology, Public Health, infectious disease modeling.
 - 🌱 I’m currently learning Arabic مرحبا
 - 💞️ I’m looking to collaborate on applied epi R coding and teaching
